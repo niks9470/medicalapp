@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178477554329",
+    "project_id": "medi-app-e9b8f",
+    "storage_bucket": "medi-app-e9b8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178477554329:android:ee51bd7d57ce632e2fb608",
+        "android_client_info": {
+          "package_name": "com.example.mediapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-G5dO9Uz8wEa6RdvbYt3evJ6zhc1Kp8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
